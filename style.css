@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+.container{
+    border: 2px solid black;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 20%;
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 50%;
+    align-items: center;
+    display: flex;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: stretch;
+    align-items: stretch;
+    max-width: 80%;
+}
